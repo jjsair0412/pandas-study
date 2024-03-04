@@ -8,3 +8,7 @@ Python의 Pandas Library에 대해 공부한 이력을 정리해둔 Repository �
 ### 1. Pandas Series Basic
 Pandas란 무엇인가 정의하고 Series에 대해 학습함.
 - [Pandas Series Study](./Pandas_Series_basic.ipynb)
+
+### 2. Pandas DataFrame Basic
+다차원 행렬을 지정하는 Pandas DataFrame을 학습함
+- [Pandas DataFrame basic](./Pandas_DataFrame_basic.ipynb)
