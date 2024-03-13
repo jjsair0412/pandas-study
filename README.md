@@ -12,3 +12,10 @@ Pandas란 무엇인가 정의하고 Series에 대해 학습함.
 ### 2. Pandas DataFrame Basic
 다차원 행렬을 지정하는 Pandas DataFrame을 학습함
 - [Pandas DataFrame basic](./Pandas_DataFrame_basic.ipynb)
+
+### 3. Pandas DataFrame 결합 방안
+각기다른 DataFrame들을 결합하는 세가지 방안에 대해 기술함.
+- 1. 결합
+- 2. 연결
+- 3. 병합
+    - [DataFrame 결합방안](./DataFrame_결합방안.ipynb)
